@@ -22,6 +22,7 @@ the dataset and split the data into training and test sets
 
 
 
+
 **Steps**
 
 1. First we split the dataset into training and test sets, then train a fully-connected neural network to recognize the digits.
