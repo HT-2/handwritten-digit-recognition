@@ -1,6 +1,5 @@
 
 
-
 # handwritten-digit-recognition
 This project focuses on building a neural network models using 
 python libraries such as scikit-learn, NumPy, 
