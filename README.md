@@ -13,7 +13,6 @@ classes.
 
 **Libraries**
 
-
 1. Scikit-learn has been used to obtain
 the dataset and split the data into training and test sets
 
