@@ -11,6 +11,8 @@ The [Optical recognition of handwritten digits dataset](https://scikit-learn.org
 has been used to build this project. This dataset consists of 8x8 grayscale images of hand-written digits sorted into 0-9 
 classes. 
 
+
+
 **Libraries**
 
 1. Scikit-learn has been used to obtain
