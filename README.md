@@ -12,8 +12,6 @@ has been used to build this project. This dataset consists of 8x8 grayscale imag
 classes. 
 
 
-
-
 **Libraries**
 
 1. Scikit-learn has been used to obtain
